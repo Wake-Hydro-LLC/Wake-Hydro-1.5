@@ -1,7 +1,64 @@
+# Open Source Licensing
+# SPDX-FileCopyrightText: 2021 Jake Grim for Wake Hydro LLC
+# SPDX-License-Identifier: MIT
+#
+# Wake Hydro is an open-source project and utilizes open-source resources. Parts of the
+# projects listed below have been utilized in the development of Wake Hydro. It is important
+# to note that I could only have brought this idea to life with the incredible resources
+# provided by Adafruit Industries, LLC. They are a fantastic company; I highly recommend
+# buying products from https://adafruit.com. I greatly appreciate the contribution these developers
+# have made to the open-source community and acknowledge their code has been integrated into
+# the Wake Hydro project. Please let me know if you notice any code I forgot to credit.
+
+# Lastly, I hope that my talents benefit humanity.
+# I pray that my heart shines goodness upon the world.
+
+# With great love,
+
+# Jake M. Grim
+
+# P.S. I am well aware that I code like a caveman, and many would refer to my work
+# as "spaghetti code." Coding is not my talent, but it works. Over time I plan to
+# clean up the code as this is just an MVP. I am open to recommendations for improving
+# the code and appreciate any support.
+
+
+# External Resources / Developers / Projects / Links:
+
+# Encoder:
 # SPDX-FileCopyrightText: 2021 John Furcean
 # SPDX-License-Identifier: MIT
+# Link: https://docs.circuitpython.org/projects/seesaw/en/latest/examples.html
 
-"""I2C rotary encoder simple test example."""
+# RTC:
+# SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
+# SPDX-License-Identifier: MIT
+# Link: https://docs.circuitpython.org/projects/ds3231/en/stable/examples.html
+
+# Scale:
+# SPDX-FileCopyrightText: 2021, 2022 Cedar Grove Maker Studios
+# SPDX-License-Identifier: MIT
+# Link: https://github.com/CedarGroveStudios/CircuitPython_NAU7802
+
+# Display:
+# SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
+# SPDX-License-Identifier: MIT
+# Link: https://github.com/adafruit/Adafruit_CircuitPython_HT16K33
+# Link: https://learn.adafruit.com/adafruit-led-backpack/changing-i2c-address?view=all#circuitpython-and-python-usage-197dcbfa-4ccf-4b98-a152-3982411df681
+
+# Sounds:
+# SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
+# SPDX-License-Identifier: MIT
+# Link: https://learn.adafruit.com/circuitpython-essentials/circuitpython-pwm
+
+# I2C:
+# SPDX-FileCopyrightText: 2017 Limor Fried for Adafruit Industries
+# SPDX-License-Identifier: MIT
+# Link: https://learn.adafruit.com/scanning-i2c-addresses/circuitpython
+
+##########################################################################################################################################################
+##########################################################################################################################################################
+
 
 import board
 import time
